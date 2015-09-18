@@ -1,0 +1,15 @@
+* { /*sizes boxes to avoid adding issues with padding and border */
+  box-sizing: border-box;
+}
+
+.a-i {
+  margin: 0 auto;
+  margin-color: yellow;
+  border: 0;
+  border-color: red;
+  padding: 20%;
+  padding-color: green;
+  content: ;
+  content-color: blue;
+
+}
